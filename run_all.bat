@@ -1,0 +1,6 @@
+@echo off
+echo Starting Backend Server (Port 5000)...
+start cmd /k "cd server && npm run dev"
+
+echo Starting Frontend Server (Port 5173)...
+start cmd /k "cd client && npm run dev"
