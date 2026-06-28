@@ -1,8 +1,6 @@
 # TokenMonitor AI
 TokenMonitor AI is a powerful, full-stack application that provides a unified chat interface for the "Famous Five" top-tier AI models while actively monitoring your token usage and API costs in real-time.
 
-![TokenMonitor AI Interface](./assets/tokenmonitor_ui.png)
-
 ## ✨ Features
 
 - **Unified Chat Interface**: Seamlessly chat with the world's best AI models from a single beautifully designed dashboard.
